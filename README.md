@@ -217,7 +217,7 @@ The results demonstrate the effectiveness of combining spatiotemporal feature ex
 ### 1. Clone the Repository
 
 ```bash id="gwwnct"
-git clone ( https://github.com/maheshdattatreya24/Disease-Specific-Indian-Sign-Language-Recognition )
+git clone  https://github.com/maheshdattatreya24/Disease-Specific-Indian-Sign-Language-Recognition.git
 cd Disease-Specific-Indian-Sign-Language-Recognition
 ```
 
